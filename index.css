@@ -145,6 +145,11 @@ color: black;
 border: none;
 background-color: rgba(0, 0, 0, 0.014);
 }
+#nput {
+color: black;
+border: none;
+background-color: rgba(0, 0, 0, 0.014);
+}
 .texte2A1b3 ,.texte2A1b4 ,.texte2A1b5 {
   margin: 1em;
   border-radius: 5px;
